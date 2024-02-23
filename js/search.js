@@ -1,0 +1,2 @@
+btn = document.querySelector('.btn')
+
