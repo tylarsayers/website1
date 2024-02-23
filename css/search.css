@@ -38,3 +38,5 @@ body {
 .search .input:focus {
     outline: none;
 }
+
+.search.active .input
