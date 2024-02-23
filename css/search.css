@@ -34,7 +34,8 @@ body {
     height:50px;
     width:200px;
     padding:15px;
-    
+    transition: width 3s ease;
+
 }
 
 .search .input:focus {
