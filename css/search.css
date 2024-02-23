@@ -34,3 +34,7 @@ body {
     padding:15px;
     box-sizing:border-box;
 }
+
+.search .input:focus {
+    outline: none;
+}
