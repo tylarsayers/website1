@@ -10,7 +10,8 @@ body{
     margin: 0;
 }
 
-
+.loading-text {
+    font-size: 50px;
 }
 
 
@@ -20,8 +21,5 @@ body{
     width: 100vw;
     background-color: red;
     position: absolute;
-}
-
-.loading-text {
-    font-size: 50px;
+    z-index: -1;
 }
