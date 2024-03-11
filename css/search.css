@@ -9,13 +9,13 @@ body {
     margin:0;
 }
 
-.search{
+.search {
     height: 50px;
     position: relative;
 }
 
 .search .btn{
-    position: aboslute;
+    position: absolute;
     top:50;
     right:50;
     font-size:24px;
