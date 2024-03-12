@@ -1,5 +1,3 @@
-
-
 body {
     height: 100vh;
     display: flex;
@@ -7,10 +5,19 @@ body {
     justify-content: center;
     margin: 0;
 }
+
 .container {
     width: 90vw;
     display: flex;
 }
 
-/*
-} */
+.panel {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    flex: 50
+}
