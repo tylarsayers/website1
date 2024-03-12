@@ -6,14 +6,13 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0;
-
 }
 .container {
     width: 90vw;
     display: flex;
 }
 
-.panel {
+/* .panel {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -22,4 +21,4 @@ body {
     color: white;
     cursor: pointer;
     flex: 0.5;
-}
+} */
