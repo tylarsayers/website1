@@ -24,7 +24,7 @@ body {
     width: 100vw;
     position: absolute;
     z-index: -1;
-    background-image: url("images/city.jpg");
+    background-image: url("images/world.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no repeat;
